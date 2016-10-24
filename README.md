@@ -1,11 +1,11 @@
-# Ultimate Ubuntu Mate 16.10
+# Ultimate Kubuntu 16.10
 
 We start our journey with a clean install. 
 
 Do all the updates the system already asks you to do.
-Kernel at 4.8.026.
+Kernel at 4.8.022.
 
-![Screenshots](http://i.imgur.com/ZxDdJsF.png)
+![Screenshots](http://i.imgur.com/qEluksx.png)
 
 Take a look at the various scripts and run the ones you like. Change content if need be.
 
