@@ -9,33 +9,22 @@ Kernel at 4.8.022.
 
 Take a look at the various scripts and run the ones you like. Change content if need be.
 
-![Screenshots](http://i.imgur.com/OCqLkd4.png)
+![Screenshots](http://i.imgur.com/dK4UQUZ.jpg)
 
 Some icons I use in the screenshots.
 
 
 Using Sardi icons from  http://sourceforge.net/projects/sardi/
 
+![Screenshots](http://i.imgur.com/qYyxDzE.png)
+
 or 
 
 using Surfn icons from https://github.com/erikdubois/Surfn.
 
-Your result can be
-
-![Screenshots](http://i.imgur.com/2I6lU9w.png)
-
-![Screenshots](http://i.imgur.com/uy3OLY7.png)
 
 
-You can change your mate settings best via appearance but there is also an interesting tool you should know.
 
-	# sudo apt install mate-tweak
-
-![Screenshots](http://i.imgur.com/2OHWRwB.png)
-
-The configuration of your window manager is one of the very interesting options mate offers the user.
-
-Try compiz if your system can handle it. Wobbly windows, ...
 
 
 # First steps
@@ -43,7 +32,7 @@ Try compiz if your system can handle it. Wobbly windows, ...
 Getting these scripts on my just installed system.
 
 	sudo apt-get install git
-	git clone https://github.com/erikdubois/Ultimate-Ubuntu-Mate-16.10
+	git clone https://github.com/erikdubois/Ultimate-Kubuntu-16.10
 
 Go inside the folder and start to install all you need or want.
 
@@ -74,7 +63,7 @@ http://erikdubois.be/change-kernel-easy-way-script/
 We start the installation script of all the needed software in the same way as above. First one should be the same on any deb distro. Second one is specific on this distro.
 
 	./bundle-installation-vx.sh
-	./bundle-installation-system-vx.sh
+
 
 Do not forget to type "./" in front of the name.
 
